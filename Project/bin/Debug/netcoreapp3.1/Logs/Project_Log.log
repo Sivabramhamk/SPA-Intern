@@ -1,0 +1,14 @@
+2022-09-06 11:39:20,068 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-09-06 11:39:20,081 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-09-06 11:39:20,085 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\mindc1jun71\Desktop\Internship-Management-SPA\Project
+2022-09-06 11:39:27,234 [4] INFO Project2.Controllers.DesignationController - Department are displaying succesfully
+2022-09-06 11:42:21,075 [16] INFO Project2.Controllers.InternController - Interns are displaying succesfully
+2022-09-06 11:42:46,389 [7] INFO Project2.Controllers.InternController - Interns are displaying succesfully
+2022-09-06 11:43:07,684 [21] INFO Project2.Controllers.InternController - Interns are displaying succesfully
+2022-09-06 11:43:42,247 [21] INFO Project2.Controllers.DesignationController - Department are displaying succesfully
+2022-09-06 11:43:43,004 [25] INFO Project2.Controllers.InternController - Interns are displaying succesfully
+2022-09-06 11:44:11,776 [21] INFO Project2.Controllers.InternController - Interns are displaying succesfully
+2022-09-06 11:45:04,740 [32] INFO Project2.Controllers.InternController - Interns are displaying succesfully
+2022-09-06 11:45:13,872 [30] INFO Project2.Controllers.DesignationController - Department are displaying succesfully
+2022-09-06 11:45:17,074 [30] INFO Project2.Controllers.InternController - Interns are displaying succesfully
+2022-09-06 11:46:39,383 [36] INFO Project2.Controllers.InternController - Interns are displaying succesfully
